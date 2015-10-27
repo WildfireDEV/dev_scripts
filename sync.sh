@@ -12,5 +12,5 @@ cd ~/cm/vendor/cm && git fetch http://review.cyanogenmod.org/CyanogenMod/android
 cd ~/cm/frameworks/base && git fetch http://review.cyanogenmod.org/CyanogenMod/android_frameworks_base refs/changes/94/114594/1 && git cherry-pick FETCH_HEAD
 cd ~/cm/external/google && git fetch http://review.cyanogenmod.org/CyanogenMod/android_external_google refs/changes/06/114706/1 && git cherry-pick FETCH_HEAD
 cd ~/cm/packages/apps/SetupWizard && git fetch http://review.cyanogenmod.org/CyanogenMod/android_packages_apps_SetupWizard refs/changes/08/114708/1 && git cherry-pick FETCH_HEAD
-cd ~/cm/frameworks/opt/telephony && git fetch http://review.cyanogenmod.org/CyanogenMod/android_frameworks_opt_telephony refs/changes/47/115047/2 && git cherry-pick FETCH_HEAD
+cd ~/cm/frameworks/opt/telephony && git fetch http://review.cyanogenmod.org/CyanogenMod/android_frameworks_opt_telephony refs/changes/47/115047/3 && git cherry-pick FETCH_HEAD
 cd ~/cm
