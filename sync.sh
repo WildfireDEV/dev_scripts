@@ -10,4 +10,5 @@ cd ~/CM13/device/htc/m7-common && git fetch http://review.cyanogenmod.org/Cyanog
 cd ~/CM13/device/htc/m7-common && git fetch http://review.cyanogenmod.org/CyanogenMod/android_device_htc_m7-common refs/changes/25/113925/3 && git cherry-pick FETCH_HEAD
 cd ~/CM13/device/htc/msm8960-common && git fetch http://review.cyanogenmod.org/CyanogenMod/android_device_htc_msm8960-common refs/changes/35/114135/3 && git cherry-pick FETCH_HEAD
 cd ~/CM13/device/htc/msm8960-common && git fetch http://review.cyanogenmod.org/CyanogenMod/android_device_htc_msm8960-common refs/changes/30/113530/3 && git cherry-pick FETCH_HEAD
+cd ~/CM13/vendor/cm && git fetch http://review.cyanogenmod.org/CyanogenMod/android_vendor_cm refs/changes/36/111336/21 && git cherry-pick FETCH_HEAD
 cd ~/CM13
