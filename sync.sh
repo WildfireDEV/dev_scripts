@@ -18,4 +18,3 @@ cd ~/CM13/hardware/libhardware_legacy && git fetch http://review.cyanogenmod.org
 cd ~/CM13/hardware/libhardware && git fetch http://review.cyanogenmod.org/CyanogenMod/android_hardware_libhardware refs/changes/54/112454/3 && git cherry-pick FETCH_HEAD
 cd ~
 cd CM13
-
